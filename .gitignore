@@ -1,0 +1,5 @@
+*.RDS
+*.docx
+*.csv
+*.Rhistoy
+.Rproj.user
