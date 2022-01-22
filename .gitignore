@@ -1,0 +1,6 @@
+*.RDS
+*.docx
+*.csv
+.Rproj.user
+*.xlsm
+*.__pycache__
